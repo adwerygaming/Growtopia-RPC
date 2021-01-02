@@ -1,0 +1,4 @@
+TypeError: client.setActivity is not a function
+    at app.data.then.data (D:\Download Result\IDM (Internet Download Manager)\Compressed\Growtopia-RPC-main\main.js:26:16)TypeError: client.setActivity is not a function
+    at app.data.then.data (D:\Download Result\IDM (Internet Download Manager)\Compressed\Growtopia-RPC-main\main.js:26:16)TypeError: Cannot read property 'catch' of undefined
+    at app.data.then.data (D:\Download Result\IDM (Internet Download Manager)\Compressed\Growtopia-RPC-main\main.js:32:11)
